@@ -134,9 +134,6 @@ ADDI	I-type	Add immediate
 J	J-type	Jump
 RTL Schematic
 
-
-
-
 Repository Structure
 MIPS-5stage-pipelined-cpu/
 │
