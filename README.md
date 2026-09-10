@@ -204,11 +204,3 @@ Author
 Ajeeth93
 
 GitHub: github.com/Ajeeth93
-
-
-**One important point:** I kept the `RTL Schematic` image reference as:
-
-```markdown
-![MIPS RTL Schematic](RTL%20Schematics/MIPS_RTL_Schematics.jpg)
-
-because your folder contains RTL Schematics/MIPS_RTL_Schematics.jpg. GitHub should render that image automatically when the README is in the repository root.
